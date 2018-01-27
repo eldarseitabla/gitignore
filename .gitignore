@@ -1,24 +1,5 @@
-# Dependencies
-node_modules/
-
-# Compiled output
-build
-dist
-
-# DotEnv
-.env
-
-# Runtime data
-database.sqlite
-
-# Test coverage
-coverage
-.nyc_output
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Mac OS X
+.DS_Store
 
 # Editors and IDEs
 .idea
@@ -28,5 +9,15 @@ yarn-error.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 
-# Misc
-.DS_Store
+# Dependencies
+node_modules/
+
+# DotEnv
+.env
+
+# Compiled output
+build
+dist
+
+# Logs
+npm-debug.log*
