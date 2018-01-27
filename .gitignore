@@ -2,7 +2,7 @@
 .DS_Store
 
 # Editors and IDEs
-.idea
+.idea/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
