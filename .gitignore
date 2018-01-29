@@ -3,21 +3,22 @@
 
 # Editors and IDEs
 .idea/
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode/
 
 # Dependencies
 node_modules/
 
-# DotEnv
+# dotenv environment variables file
 .env
 
 # Compiled output
-build
-dist
+build/
+dist/
 
 # Logs
+logs
+*.log
 npm-debug.log*
+
+# Output of 'npm pack'
+*.tgz
