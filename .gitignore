@@ -1,5 +1,6 @@
 # OS generated files
 DS_Store
+.DS_Store
 .DS_Store?
 ._*
 .*.sw[op]
@@ -14,8 +15,6 @@ Thumbs.db
 
 # Dependencies
 node_modules/
-
-package-lock.json
 
 # dotenv environment variables file
 .env
